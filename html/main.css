@@ -1,0 +1,8 @@
+body{
+    padding:0;
+    margin:0;
+    background-color: aquamarine;
+}
+.carousel-item img{
+        height: 300px;
+}
